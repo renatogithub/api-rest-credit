@@ -1,3 +1,11 @@
+/**
+ * Bean Stores Customer Information
+ *
+ * @author Renato Ponce
+ * @version 1.0
+ * @since 2022-06-24
+ */
+
 package com.nttdata.apirestcredit.dto;
 
 import lombok.Data;
